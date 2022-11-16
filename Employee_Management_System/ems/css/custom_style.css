@@ -1,1 +1,132 @@
 
+    .content-body.height {
+    /*min-height: 840px !important;*/
+}
+label.month-search {
+    padding-left: 326px;
+}
+ .fc-sun {
+    background-color: yellow;
+}
+.fc-sat {
+    background-color: yellow;
+}
+span.swatch7 {
+    background: #7d8c02;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch6 {
+    background: #932ab6;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+
+span.swatch5 {
+    background: #51a8d2;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch4 {
+    background: #6753d4;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch3 {
+    background: #dc3545;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+span.swatch2 {
+    background: #28a744;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+span.swatch {
+    background: #fafe03;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+
+.fc-ltr .fc-basic-view .fc-day-top .fc-day-number {
+    color: black;
+}
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  
+}
+.fc-unthemed td.fc-today {
+    background: #6753d4 !important;
+}
+.nav-header {
+    height: 9rem !important;
+}
+.nk-sidebar {
+	top: 8.9rem;
+}
+.livetime {
+        /*padding-left: 659px;*/
+    font-weight: 600;
+
+}
